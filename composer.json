@@ -1,0 +1,19 @@
+{
+    "name": "wsw/runbook-contract",
+    "description": "Contrato para criação de actions no runbook",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Wsw\\Runbook\\Contract\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ronaldo Matos Rodrigues",
+            "email": "ronaldo@whera.com.br"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}

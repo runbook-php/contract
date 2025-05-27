@@ -10,5 +10,5 @@ interface TaggedParseContract
      * @exception \RuntimeException
      * @return mixed
      */
-    public function parse(string $value);
+    public function parse($value);
 }
